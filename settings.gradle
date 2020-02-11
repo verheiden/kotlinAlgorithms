@@ -1,0 +1,2 @@
+include ':app', ':binaryTree', ':LinkedListSort', ':kthPolinDrone', ':shortestSubLarger', ':add2BinaryStrings', ':addDigitsSortChars', ':KthLargest', ':kthSmallest', ':HashTable', ':BtreeSwap', ':MinProductionDays', ':MaxModule', ':MinPasses', ':maxLuck', ':largestRect', ':maxMinWindow', ':RoadsLibs'
+rootProject.name='Kotlin.Algorithms'

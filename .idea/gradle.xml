@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BtreeSwap" />
+            <option value="$PROJECT_DIR$/HashTable" />
+            <option value="$PROJECT_DIR$/KthLargest" />
+            <option value="$PROJECT_DIR$/LinkedListSort" />
+            <option value="$PROJECT_DIR$/MaxModule" />
+            <option value="$PROJECT_DIR$/MinPasses" />
+            <option value="$PROJECT_DIR$/MinProductionDays" />
+            <option value="$PROJECT_DIR$/RoadsLibs" />
+            <option value="$PROJECT_DIR$/add2BinaryStrings" />
+            <option value="$PROJECT_DIR$/addDigitsSortChars" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/binaryTree" />
+            <option value="$PROJECT_DIR$/kthPolinDrone" />
+            <option value="$PROJECT_DIR$/kthSmallest" />
+            <option value="$PROJECT_DIR$/largestRect" />
+            <option value="$PROJECT_DIR$/maxLuck" />
+            <option value="$PROJECT_DIR$/maxMinWindow" />
+            <option value="$PROJECT_DIR$/shortestSubLarger" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
